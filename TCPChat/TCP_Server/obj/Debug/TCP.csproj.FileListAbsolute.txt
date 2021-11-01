@@ -1,0 +1,9 @@
+E:\学习\大三下\夏季学期\TCP\TCP\bin\Debug\TCP.exe.config
+E:\学习\大三下\夏季学期\TCP\TCP\bin\Debug\TCP.exe
+E:\学习\大三下\夏季学期\TCP\TCP\bin\Debug\TCP.pdb
+E:\学习\大三下\夏季学期\TCP\TCP\obj\Debug\TCP.csprojResolveAssemblyReference.cache
+E:\学习\大三下\夏季学期\TCP\TCP\obj\Debug\TCP.form.resources
+E:\学习\大三下\夏季学期\TCP\TCP\obj\Debug\TCP.Properties.Resources.resources
+E:\学习\大三下\夏季学期\TCP\TCP\obj\Debug\TCP.csproj.GenerateResource.Cache
+E:\学习\大三下\夏季学期\TCP\TCP\obj\Debug\TCP.exe
+E:\学习\大三下\夏季学期\TCP\TCP\obj\Debug\TCP.pdb
