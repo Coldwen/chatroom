@@ -1,5 +1,7 @@
 # chatroom
 
+实时在线更新：https://alpine-date-98f.notion.site/91b641e332b640888c85b7dd53e60f18
+
 ## 项目
 
 1. TCPChat 是基于C# .NET的WinForm三层架构的轻量级多线程TCP/IP通信的聊天室。
